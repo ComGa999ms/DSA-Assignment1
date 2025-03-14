@@ -58,7 +58,7 @@ Bài này duyệt đi tìm các ước $x$ của $n$ xong với mỗi ước nà
 
 ## Binary Search 1	
 ### Tóm tắt đề
-Cho mảng $a$ (các giá trị a_i đôi một phân biệt) có $n$ ($1 \leq n \leq 32000$) phần tử và một số nguyên dương $x$ cần tìm. In ra số $x$ nằm ở vị trí nào và dùng chặt nhị phân thì tốn bao nhiêu lần chặt mới tìm được vị trí đó, ngược lại không có $x$ trong mảng thì in ra -1. 
+Cho mảng $a$ (các giá trị $a_i$ đôi một phân biệt) có $n$ ($1 \leq n \leq 32000$) phần tử và một số nguyên dương $x$ cần tìm. In ra số $x$ nằm ở vị trí nào và dùng chặt nhị phân thì tốn bao nhiêu lần chặt mới tìm được vị trí đó, ngược lại không có $x$ trong mảng thì in ra -1. 
 ### Lời giải
 Bài này làm theo như đề bài :))))
 
