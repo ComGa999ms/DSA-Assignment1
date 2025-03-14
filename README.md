@@ -55,7 +55,6 @@ Bài này duyệt đi tìm các ước $x$ của $n$ xong với mỗi ước nà
 Đầu tiên đi tìm phần dài nhất mà 2 xâu khớp nhau giữa phần đuôi của xâu $S$ và phần đầu của xâu $T$. Đến đây xâu hoàn chỉnh của chúng ta là $S$ + phần còn lại của xâu $T$ (xâu $T$ bỏ đi đoạn khớp nhau dài nhất).
 
 
-
 ## Binary Search 1	
 ### Tóm tắt đề
 Cho mảng $a$ (các giá trị $a_i$ đôi một phân biệt) có $n$ ($1 \leq n \leq 32000$) phần tử và một số nguyên dương $x$ cần tìm. In ra số $x$ nằm ở vị trí nào và dùng chặt nhị phân thì tốn bao nhiêu lần chặt mới tìm được vị trí đó, ngược lại không có $x$ trong mảng thì in ra -1. 
@@ -66,7 +65,7 @@ Bài này làm theo như đề bài :))))
 ### Tóm tắt đề
 Cho mảng $a$ (các chuỗi kí tự có độ dài $\leq 10$ và được xếp tăng dần) có $n$ ($1 \leq n \leq 2000$) phần tử và một chuỗi $x$ cần tìm. In chuỗi $x$ nằm ở vị trí nào và dùng chặt nhị phân thì tốn bao nhiêu lần chặt mới tìm được vị trí đó, ngược lại không có $x$ trong mảng thì in ra -1. 
 ### Lời giải 
-Làm tương tự bài Bin1 việc đổi từ số sang chữ không ảnh hưởng.
+Làm tương tự bài Binary Search 1 việc đổi từ số sang chữ không ảnh hưởng.
 
 ## Linear Search 1	
 ### Tóm tắt đề
